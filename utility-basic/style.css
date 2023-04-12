@@ -1,0 +1,47 @@
+/* .btn {
+  background-color: steelblue;
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding: 0.5rem 1rem;
+}
+
+.btn-danger {
+  background-color: red;
+}
+
+.btn-success {
+  background-color: green;
+} */
+
+.bg-blue {
+  background-color: steelblue;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.bg-green {
+  background-color: green;
+}
+
+.text-white {
+  color: white;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.border-0 {
+  border: none;
+}
+
+.p-05-1 {
+  padding: 0.5rem 1rem;
+}
+
+.text-2xl {
+  font-size: 2rem;
+}

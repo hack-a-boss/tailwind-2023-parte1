@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css-dev": "npx tailwindcss -i ./style.css -o ./build.css --watch",
+    "live-server": "npx live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
